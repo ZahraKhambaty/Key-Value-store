@@ -1,0 +1,3 @@
+echo "Compiling..."
+gcc read_eval.c sharedmem.c -lrt -lpthread
+echo "Done...
