@@ -1,2 +1,3 @@
-# comp310-a2
-a2
+# comp310-A2
+
+Key-Value Store
